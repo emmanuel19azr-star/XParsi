@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "XParsi",
+    "slug": "xparsi",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "android": {
+      "package": "com.xparsi.social",
+      "versionCode": 1
+    },
+    "plugins": []
+  }
+}
